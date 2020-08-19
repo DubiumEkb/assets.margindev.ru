@@ -1,1 +1,20 @@
+# Title site
+languageCode:           "en"
+title:                  "Web Design UI Margin"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+params:
+  github_username:      DubiumEkb
+  authors:              "DubiumEkb and Konstantin-dante3417"
+  email:                dubium-ekb@yandex.ru
+  repo:                 "https://github.com/DubiumEkb/assets.margindev.ru"
+  timezone:             Europe/Moscow     # временная зона
+  destination:          _site          # директория с собранной статикой
+  relative_permalinks:  false  # использовать ли относительные пути
+
+download:
+  source:               "https://github.com/DubiumEkb/assets.margindev.ru/archive/v0.0.1.zip"
+  dist:                 "https://github.com/DubiumEkb/assets.margindev.ru/releases/download/v0.0.1-dist.zip"
+
 theme: jekyll-theme-cayman
