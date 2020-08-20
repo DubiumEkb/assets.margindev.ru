@@ -14,8 +14,7 @@
     ├── _layouts // Шаблоны страниц
     │   ├── default.html
     │   └── detail.html
-    ├── _posts // Страницы с ассетами   
-    ├── _site // Основные элементы (css, js и статические страницы)
+    ├── _posts // Страницы с ассетами
     ├── .gitignore
     ├── _config.yml
     ├── Gemfile
